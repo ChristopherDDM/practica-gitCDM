@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Línea modificada desde MASTER
+=======
+Línea modificada desde DESARROLLO
+>>>>>>> desarrollo
